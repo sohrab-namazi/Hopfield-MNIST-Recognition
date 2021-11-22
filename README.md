@@ -2,6 +2,6 @@
 
 The PDF File explains all the code in details
 
-> My detailed implementation of Hopfield network, and its use in to recognize MNIST dataset 
+It is my detailed implementation of Hopfield network, and its use for recognizing MNIST dataset 
 
 
